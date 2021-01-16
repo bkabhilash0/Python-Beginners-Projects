@@ -66,3 +66,4 @@ def main(board):
             victory(board)
 
 main(board)
+print("Working")
